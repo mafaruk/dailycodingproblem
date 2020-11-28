@@ -5,7 +5,7 @@
 // N=5
 // Position=[1, 3, 5, 9, 14]
 // d=5
-
+// comment was added while we were tesing git bash (staging area)
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
